@@ -2,6 +2,8 @@
 
 AgentShield is a security gateway prototype that monitors, evaluates, and controls actions requested by autonomous AI agents **before** those actions execute.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVismay1737%2FAgentShield&root-directory=frontend)
+
 ---
 
 ## 🌟 Core Features
